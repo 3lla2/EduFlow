@@ -1,0 +1,6 @@
+{
+  "name": "EduFlow — المنصة التعليمية الذكية",
+  "description": "منظومة EduFlow الذكية لإدارة التعليم والامتحانات التفاعلية، ومتابعة الطلاب والمعلمين وأولياء الأمور والإدارة مع الأتمتة والذكاء الاصطناعي.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
