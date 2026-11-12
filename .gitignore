@@ -1,0 +1,19 @@
+# Environment variables and secrets
+.env
+.env.*
+!.env.example
+
+# Supabase local state
+supabase/.temp/
+supabase/.branches/
+
+# Local database and backup files
+*.db
+*.sqlite
+*.sqlite3
+*.backup
+*.dump
+
+# OS files
+.DS_Store
+Thumbs.db
